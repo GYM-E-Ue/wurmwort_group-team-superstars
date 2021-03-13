@@ -1,0 +1,9 @@
+Aufgabe: Nach jedem Namen muss die betreffende Person ein Wort ergänzen, so dass möglichst ein "sinnvoller" Satz entsteht 
+
+Tristan:    
+Karin:      
+Denis:      
+Tristan:    
+Karin:
+Denis:
+Tristan:
